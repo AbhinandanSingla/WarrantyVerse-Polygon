@@ -31,23 +31,23 @@ export const contractAddress = <Contract Address>;
 
 > Connecting Page
 
-#### For connecting metamask wallet
+#### For connecting metamask wallet 
 
 # ![connecting Page](https://raw.githubusercontent.com/AbhinandanSingla/warranty-verse/master/blob/images/connectingPage.png)
 
 #### For adding seller so that he can mint Warranty
 
-> Owner Page
+> Owner Page 
 
 # ![addSeller Page](https://raw.githubusercontent.com/AbhinandanSingla/warranty-verse/master/blob/images/addSeller.png)
 
 #### After getting authorized now seller can mint warranty by filling following details
 
-> Seller page
+> Seller page /mintWarranty(Route)
 
 # ![mint warranty](https://raw.githubusercontent.com/AbhinandanSingla/warranty-verse/master/blob/images/mintWarranty.png)
 
-> Validate Warranty
+> Validate Warranty /validate(Route)
 
 ##### (Only seller can Validate the warranty)
 
@@ -55,10 +55,10 @@ export const contractAddress = <Contract Address>;
 
 # ![validated](https://raw.githubusercontent.com/AbhinandanSingla/warranty-verse/master/blob/images/validatProduct.png)
 
-> ### User pages
+> ### User pages /user(Route)
 
 # ![user](https://raw.githubusercontent.com/AbhinandanSingla/warranty-verse/master/blob/images/user.png)
 
-All Minted Warranty can viewed by user
+All Minted Warranty can viewed by user 
 
 # ![Dashboard](https://raw.githubusercontent.com/AbhinandanSingla/warranty-verse/master/blob/images/dashboard.png)
