@@ -10,7 +10,7 @@
 ##### Alchemy api [Alchemy](https://www.alchemy.com/)
 
 ```shell
-npx hardhat run src/scripts/deploy.js --network goerli
+npx hardhat run src/scripts/deploy.js --network matic
 ```
 
 * Copy the address and replace it with contractAddress in contractScripts.js
