@@ -29,7 +29,7 @@ export const MetaMaskProvider = ({children}) => {
         }
     };
     useEffect(() => {
-        checkMetamaskAvailability().then(v => v);
+        // checkMetamaskAvailability().then(v => v);
     }, [])
     const values = useMemo(() => ({
         accountAddress,
